@@ -1,0 +1,5 @@
+E:\ZTesting\FFPermission\AFFPermission\obj\Debug\AFFPermission.csproj.CoreCompileInputs.cache
+E:\ZTesting\FFPermission\AFFPermission\bin\Debug\AFFPermission.dll
+E:\ZTesting\FFPermission\AFFPermission\bin\Debug\AFFPermission.pdb
+E:\ZTesting\FFPermission\AFFPermission\obj\Debug\AFFPermission.dll
+E:\ZTesting\FFPermission\AFFPermission\obj\Debug\AFFPermission.pdb

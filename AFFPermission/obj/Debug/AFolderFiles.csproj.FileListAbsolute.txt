@@ -1,0 +1,13 @@
+E:\ZTesting\FFPermission\AFFPermission\bin\Debug\AFolderFiles.dll
+E:\ZTesting\FFPermission\AFFPermission\bin\Debug\AFolderFiles.pdb
+E:\ZTesting\FFPermission\AFFPermission\obj\Debug\AFolderFiles.csproj.CoreCompileInputs.cache
+E:\ZTesting\FFPermission\AFFPermission\obj\Debug\AFolderFiles.dll
+E:\ZTesting\FFPermission\AFFPermission\obj\Debug\AFolderFiles.pdb
+E:\ZTesting\FFPermission\AFFPermission\obj\Debug\AFolderFiles.csprojResolveAssemblyReference.cache
+Z:\01_Desktop_App\FFPermission\AFFPermission\bin\Debug\AFolderFiles.dll
+Z:\01_Desktop_App\FFPermission\AFFPermission\bin\Debug\AFolderFiles.pdb
+Z:\01_Desktop_App\FFPermission\AFFPermission\obj\Debug\AFolderFiles.csproj.CoreCompileInputs.cache
+Z:\01_Desktop_App\FFPermission\AFFPermission\obj\Debug\AFolderFiles.dll
+Z:\01_Desktop_App\FFPermission\AFFPermission\obj\Debug\AFolderFiles.pdb
+Z:\01_Desktop_App\FFPermission\AFFPermission\bin\Debug\AFolderFiles.dll.CodeAnalysisLog.xml
+Z:\01_Desktop_App\FFPermission\AFFPermission\bin\Debug\AFolderFiles.dll.lastcodeanalysissucceeded

@@ -1,0 +1,7 @@
+E:\ZTesting\FFPermission\AFFPermission\bin\Release\AFFPermission.xml
+E:\ZTesting\FFPermission\AFFPermission\bin\Release\AFFPermission.dll
+E:\ZTesting\FFPermission\AFFPermission\bin\Release\AFFPermission.pdb
+E:\ZTesting\FFPermission\AFFPermission\obj\Release\AFFPermission.csprojResolveAssemblyReference.cache
+E:\ZTesting\FFPermission\AFFPermission\obj\Release\AFFPermission.csproj.CoreCompileInputs.cache
+E:\ZTesting\FFPermission\AFFPermission\obj\Release\AFFPermission.dll
+E:\ZTesting\FFPermission\AFFPermission\obj\Release\AFFPermission.pdb
