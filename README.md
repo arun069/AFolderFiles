@@ -1,6 +1,6 @@
 # AFolderFiles
 
-ALl Miscellaneous functions for Folder files
+All Miscellaneous functions for Folder files
 1).Give Permissions for folder/files
 2).Folder/File Browser
 3).copy/create/delete folder/file
