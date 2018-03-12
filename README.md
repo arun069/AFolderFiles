@@ -25,6 +25,7 @@
 1)	SystemTempFolder : Get window default temp folder. [03-03-2018]
 2)	StartupPath : Application startup path.(Where dll file placed) [03-03-2018]
 3)	ReadTextfile : Read a textfile. [03-03-2018]
+4)	CreateTextfile : Create a text file. [12-03-2018]
 
 	AFolderFilesPermission :
 1)	AddFolderSecurity : Add read write permissions for a folder and its sub contents. [03-03-2018]
